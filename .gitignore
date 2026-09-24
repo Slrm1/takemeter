@@ -1,0 +1,8 @@
+models/
+__pycache__/
+*.pyc
+data/review_*.md
+data/review_*.jsonl
+data/labeled_partial.json
+data/raw_comments.jsonl
+.venv/

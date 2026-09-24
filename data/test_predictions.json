@@ -1,0 +1,646 @@
+[
+  {
+    "text": "It seems like AJ was just making everybody’s life miserable in Philadelphia",
+    "true_label": "hot_take",
+    "predicted_label": "reaction",
+    "confidence": 0.412,
+    "probabilities": {
+      "analysis": 0.2712,
+      "hot_take": 0.3167,
+      "reaction": 0.412
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woj2xs/highlight_brandon_graham_on_the_2026_eagles/pbnfyjt/"
+  },
+  {
+    "text": "Of course. Because it will cycle out with all the social media nuts, but the ember will remain. And all media has to do in a few weeks is give it a few blows and the inferno will light back up.",
+    "true_label": "hot_take",
+    "predicted_label": "hot_take",
+    "confidence": 0.3525,
+    "probabilities": {
+      "analysis": 0.3323,
+      "hot_take": 0.3525,
+      "reaction": 0.3152
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojbb3/seahawks_mike_macdonald_apologizes_to_broncos/pbnjm8f/"
+  },
+  {
+    "text": "Yeah but this is Matt Flynn territory here. Lock got a mulligan for the Pat game entering with no prep, got to feast on a bad AZ defense. Avoiding a bad game is likely the different in 5-10 million total dollars. If he came back to reality (As backups often do after the first couple days) he'd be losing quite a bit of money. Best case scenario for Lock here if Darnold is ready to play, goes out on a high note that leaves people wondering if he can be their stop gap.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5775,
+    "probabilities": {
+      "analysis": 0.5775,
+      "hot_take": 0.2496,
+      "reaction": 0.1729
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woj0jg/seahawks_darnold_on_a_good_track_to_play_vs/pbnknpo/"
+  },
+  {
+    "text": "Yeah, the inside receiver ran outside and the outside receiver ran inside. The two defenders ran into each other trying to cover them. It's not often you see a defense run a pick play on itself.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5789,
+    "probabilities": {
+      "analysis": 0.5789,
+      "hot_take": 0.2523,
+      "reaction": 0.1688
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woi1x2/highlight_panthers_formation_on_4th_and_goal/pbnr4ml/"
+  },
+  {
+    "text": "Well if the Eagles also colpase then 7-10 can win the division with how the Cowboys and Commies look.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5382,
+    "probabilities": {
+      "analysis": 0.5382,
+      "hot_take": 0.2684,
+      "reaction": 0.1934
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbnejv0/"
+  },
+  {
+    "text": "There are different kinds of 0-2 starts. There's the kind like when the Giants started 0-2 and went on to beat the previously undefeated Patriots in the Super Bowl, and there's the kind like when the Lions went 0-2 and finished 0-16. Don't be a doomer and think it has to be the latter. That's what Dean Spanos wants. You're playing right into his hands by being all gloomy.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5582,
+    "probabilities": {
+      "analysis": 0.5582,
+      "hot_take": 0.2516,
+      "reaction": 0.1902
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo6ye9/water_cooler_wednesday/pbnomvf/"
+  },
+  {
+    "text": "Wait 8 months for the season to begin and then you look good in your first game only for it all to be taken away the next week. Being a sports fan is sickening sometimes",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.4048,
+    "probabilities": {
+      "analysis": 0.4048,
+      "hot_take": 0.3211,
+      "reaction": 0.2741
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbnaric/"
+  },
+  {
+    "text": "The day the Empire was born. I don’t think anyone would imagine that the greatest player of all time would be a 6th round pick.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.471,
+    "probabilities": {
+      "analysis": 0.471,
+      "hot_take": 0.2837,
+      "reaction": 0.2453
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woibj5/sacramento_bee_25th_anniversary_of_tom_brady/pbnc4yj/"
+  },
+  {
+    "text": "Wow. I never would have guessed that giving Pierce the largest free agent WR contract in NFL history would turn out poorly. Then I see comments about how the Colts trading for Marvin Harrison Jr. Literally the last thing the Colts need to do is trade a pick (thought it would be a conditional 6th or 7th, if Harrison even has a trade value) to get another bad receiver. I get his daddy was a GREAT Colt. All-timer. The Bulls never signed Marcus Jordan. Lakers probably wouldn't go after EJ. Giants aren't gonna sign Chris Simms now that Dart is out for the season. I am as about as surprised as anybody. I thought MHJ was a can't-miss prospect coming out of college. But, man. He just sucks in the NFL. The Colts could use WR help, but so could the Cardinals. Harrison has one catch through two games.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.6177,
+    "probabilities": {
+      "analysis": 0.6177,
+      "hot_take": 0.2103,
+      "reaction": 0.172
+    },
+    "correct": true,
+    "notes": "edge: one stat plus a strong suck claim",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo99qt/meirov_the_colts_are_placing_wr_alec_pierce_on_ir/pbni7a6/"
+  },
+  {
+    "text": "Chase has bitched to the media about targets plenty of times and wasn't in a prehistoric passing offense centered around pushing their QB's ass and running hitch routes. So if Chase did that imagine what he would do in AJB place.. Star WRs bitching about targets is nothing new. We just pretend it is because AJ bad.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5548,
+    "probabilities": {
+      "analysis": 0.5548,
+      "hot_take": 0.2586,
+      "reaction": 0.1867
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woj2xs/highlight_brandon_graham_on_the_2026_eagles/pbnovo3/"
+  },
+  {
+    "text": "I heard Sean Payton put in a rookie OC to take the heat from the Chiefs loss, then turned around and blamed everyone but himself. The re-established the bounty program to motivate his underpaid workers",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.5181,
+    "probabilities": {
+      "analysis": 0.5181,
+      "hot_take": 0.271,
+      "reaction": 0.2109
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojbb3/seahawks_mike_macdonald_apologizes_to_broncos/pbnk06o/"
+  },
+  {
+    "text": "It’s not as funny as I remembered but still a classic love it",
+    "true_label": "reaction",
+    "predicted_label": "reaction",
+    "confidence": 0.4014,
+    "probabilities": {
+      "analysis": 0.2931,
+      "hot_take": 0.3056,
+      "reaction": 0.4014
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo6m0h/pod_rb_jamaal_williams_contacted_detroit_lions/pbnjtwu/"
+  },
+  {
+    "text": "Skattebo needs a partner to fight over floaties in cancun",
+    "true_label": "reaction",
+    "predicted_label": "reaction",
+    "confidence": 0.3697,
+    "probabilities": {
+      "analysis": 0.3234,
+      "hot_take": 0.3069,
+      "reaction": 0.3697
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbndlgd/"
+  },
+  {
+    "text": "I hope Jackson, Allen, and Mahomes can take care of their bodies, because damn is football fun when they are healthy",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.369,
+    "probabilities": {
+      "analysis": 0.369,
+      "hot_take": 0.3291,
+      "reaction": 0.302
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woc8vf/rap_jaxson_darts_surgery_will_address_torn/pbndvq8/"
+  },
+  {
+    "text": "It is a good rivalry. The issue is they're in the same conference, so we don't get them head to head in the super bowl, but they've had epic playoff games.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5333,
+    "probabilities": {
+      "analysis": 0.5333,
+      "hot_take": 0.2591,
+      "reaction": 0.2076
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woh1dl/highlight_a_lot_of_people_dont_believe_in_you_it/pbnejux/"
+  },
+  {
+    "text": "ZBB at 100% is a huge loss. ZBB at whatever percent he was trying to play at is still a loss, but not irreplaceable. The question is whether Belton can be that replacement.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5837,
+    "probabilities": {
+      "analysis": 0.5837,
+      "hot_take": 0.2387,
+      "reaction": 0.1775
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wohm22/packers_final_injury_report_for_wk3_vs_falcons_dt/pbnb5fz/"
+  },
+  {
+    "text": "Tbf, our D-line, Benford and Bishop were basically all our good players to begin with last year. Sure, we had hopes for Hairston/Ig, but besides Bernard who has been fine, the rest are replacement level starters at best.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5526,
+    "probabilities": {
+      "analysis": 0.5526,
+      "hot_take": 0.2649,
+      "reaction": 0.1824
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woad07/josh_allen_named_afc_offensive_player_of_the_week/pbni8na/"
+  },
+  {
+    "text": "Bruh I saw Jalen doing random Eagles social media promo the other day and he has never once did that shit in his entire time here. I genuinely don’t know what him and AJ had going on but dude was 1000% a drag on the team.",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4107,
+    "probabilities": {
+      "analysis": 0.4107,
+      "hot_take": 0.2991,
+      "reaction": 0.2902
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woj2xs/highlight_brandon_graham_on_the_2026_eagles/pbnfwyl/"
+  },
+  {
+    "text": "IMO Purdy’s draft stock suffered because literally every team was trying to hit the next Mahomes/Josh Allen QB with a rocket arm. So many guys in that period were getting drafted in he first round just because of a good combine or pro day. Purdy had so much tape from ISU but it never showed a good arm.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5595,
+    "probabilities": {
+      "analysis": 0.5595,
+      "hot_take": 0.2506,
+      "reaction": 0.1899
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woe7wy/highlight_brock_purdy_breaking_down_anticipation/pbnedj1/"
+  },
+  {
+    "text": "If only they could cheat as well as Denver, circumventing the cap into 2 rings",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.3853,
+    "probabilities": {
+      "analysis": 0.3853,
+      "hot_take": 0.3076,
+      "reaction": 0.3071
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojbb3/seahawks_mike_macdonald_apologizes_to_broncos/pbnpfpj/"
+  },
+  {
+    "text": "He's supposed to wait until after Jameis has a 5 TD game before talking about the playoffs. There will be a brief window before he has a 5 INT game to bring it all crashing back down.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.5652,
+    "probabilities": {
+      "analysis": 0.5652,
+      "hot_take": 0.2476,
+      "reaction": 0.1872
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbnhil7/"
+  },
+  {
+    "text": "Even then, his head barely moves because of the contact. If you watch it, his whole torso whips backward because of the chest-to-chest hit.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.408,
+    "probabilities": {
+      "analysis": 0.408,
+      "hot_take": 0.3068,
+      "reaction": 0.2851
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo6yay/injury_possible_concussive_hit_on_bagent_near_end/pbnqe4g/"
+  },
+  {
+    "text": "I feel like this would be the tape to show college refs what targeting is. This play would be \"reviewed\" just to go through the motions before ejecting the defender.",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5235,
+    "probabilities": {
+      "analysis": 0.5235,
+      "hot_take": 0.2772,
+      "reaction": 0.1993
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo6yay/injury_possible_concussive_hit_on_bagent_near_end/pbnayh4/"
+  },
+  {
+    "text": "I think Penix sucks, and anything he shows you only risks a commitment you don't want. You guys talk a lot about how much it sucks to constantly spin your wheels because you go on these late, meaningless season runs that don't get you to playoff contention but knock you out of a great pick. Well, that's the future I envision for Penix, if I'm being real here.",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.5248,
+    "probabilities": {
+      "analysis": 0.5248,
+      "hot_take": 0.2785,
+      "reaction": 0.1967
+    },
+    "correct": false,
+    "notes": "edge: Penix sucks plus an envisioned future",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woi1x2/highlight_panthers_formation_on_4th_and_goal/pbnc5x8/"
+  },
+  {
+    "text": "I wonder if the same applies to bad teams in a big metro on the other coast 😜",
+    "true_label": "reaction",
+    "predicted_label": "reaction",
+    "confidence": 0.3561,
+    "probabilities": {
+      "analysis": 0.3374,
+      "hot_take": 0.3065,
+      "reaction": 0.3561
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wocnu0/highlight_kyle_brandt_gives_a_message_to_the_los/pbnpdoo/"
+  },
+  {
+    "text": "I actually didn’t count this game because Brady didn’t enter it until the fourth quarter and only threw ten passes/",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.542,
+    "probabilities": {
+      "analysis": 0.542,
+      "hot_take": 0.2424,
+      "reaction": 0.2156
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woibj5/sacramento_bee_25th_anniversary_of_tom_brady/pbnkgjj/"
+  },
+  {
+    "text": "At this point people hate him because he’s bad at playing corner and seems to be doing something stupid in every game. Penalties, blown coverage, shit tackling, just piles up. It’s on MLF for letting him decide his position and on Gute for complete mismanagement of the corner group",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5345,
+    "probabilities": {
+      "analysis": 0.5345,
+      "hot_take": 0.2836,
+      "reaction": 0.182
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wohm22/packers_final_injury_report_for_wk3_vs_falcons_dt/pbno39n/"
+  },
+  {
+    "text": "Typically those don't get called on RBs. Right or wrong, I can't remember the last time I've ever seen a rb get that call",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4268,
+    "probabilities": {
+      "analysis": 0.4268,
+      "hot_take": 0.2945,
+      "reaction": 0.2787
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wo6yay/injury_possible_concussive_hit_on_bagent_near_end/pbnefi6/"
+  },
+  {
+    "text": "And if you ignore all the bad teams, they’re actually winless since 2024",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4002,
+    "probabilities": {
+      "analysis": 0.4002,
+      "hot_take": 0.2997,
+      "reaction": 0.3001
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wocw2m/the_seattle_seahawks_have_not_lost_a_game_by_more/pbnpgwq/"
+  },
+  {
+    "text": "You're getting downvoted to oblivion but you're lowkey right. Allen per attempt has some of the most roughing the passer calls and his overall quality of RTP calls is quite high considering how much less he has played than those at the top of the list. https://nflpenalties.com/roughing-the-passer-by-qb.php?view=all He's an excellent player but he definitely oversells getting hit to bait some flags. Of course I don't think he has gotten as many soft RTP calls in big games as Brady did (2018 AFC championship game patriots vs chiefs as the most egregious example)",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.6127,
+    "probabilities": {
+      "analysis": 0.6127,
+      "hot_take": 0.2035,
+      "reaction": 0.1838
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wnp3xs/josh_allen_entered_the_top_20_in_career_rushing/pbnmo4g/"
+  },
+  {
+    "text": "I will almost guarantee Penix is going to come in, play like about the 22nd best QB, we win 4 of our last 6, and pick 8th.",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.5174,
+    "probabilities": {
+      "analysis": 0.5174,
+      "hot_take": 0.2806,
+      "reaction": 0.202
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woi1x2/highlight_panthers_formation_on_4th_and_goal/pbnfavc/"
+  },
+  {
+    "text": "The announcer said that Lewis hitting Elway in the head with his forearm was the problem. Like naw dude the problem was that he hit elways 5 seconds after he threw the ball. Could've been a perfectly clean hit in normal circumstances but it's always gonna be RTP when it's that late",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5465,
+    "probabilities": {
+      "analysis": 0.5465,
+      "hot_take": 0.2696,
+      "reaction": 0.1839
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wohp2p/highlight_mo_lewis_drills_john_elway_on_a_late/pbnbm6h/"
+  },
+  {
+    "text": "Get fucking Szoboszlai as a kicker. He might actually be able to do 70 yards. The fucking pace on his long shots is ridiculous.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.4539,
+    "probabilities": {
+      "analysis": 0.4539,
+      "hot_take": 0.2979,
+      "reaction": 0.2482
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wodqsu/england_captain_harry_kane_eyes_combining_mls/pbnnxrn/"
+  },
+  {
+    "text": "Highlighting a player before the snap is good, darkening the rest of the screen so we can't see anything else is not. I know you probably weren't the one that made that choice, but hopefully that trend doesn't catch on.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.4698,
+    "probabilities": {
+      "analysis": 0.4698,
+      "hot_take": 0.2937,
+      "reaction": 0.2365
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojqjl/highlight_every_aaron_donald_snap_in_his_first/pbnonyk/"
+  },
+  {
+    "text": "I hate to trade him, but I just feel so awful for Dart. I’d be willing to trade JJM for whatever the giants are willing to offer.",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4286,
+    "probabilities": {
+      "analysis": 0.4286,
+      "hot_take": 0.3191,
+      "reaction": 0.2523
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbni2px/"
+  },
+  {
+    "text": "I was so blown away that we got AJ Brown. And I loved every minute. So much that I resisted such talk last year as nonsense. But I see now…..it was in a bad place last year. Not TO-McNabb bad, but not good. And yeah, we don’t have the torches and pitchforks out for a coordinator since training camp this year as well. It’s a better feeling. Now they just need to figure out the offensive line and defensive stopping the run and the vibes can reach immaculate level. Lol",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5761,
+    "probabilities": {
+      "analysis": 0.5761,
+      "hot_take": 0.2463,
+      "reaction": 0.1777
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woj2xs/highlight_brandon_graham_on_the_2026_eagles/pbnk8wo/"
+  },
+  {
+    "text": "You never want to test O-Line depth and I trust the Seahawks staff more to put the best available player out there week after week than fans who see a flag and keep it in their memory forever",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.5193,
+    "probabilities": {
+      "analysis": 0.5193,
+      "hot_take": 0.2789,
+      "reaction": 0.2017
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wohcah/musgrove_seahawks_to_place_rg_anthony_bradford_on/pbnlmfg/"
+  },
+  {
+    "text": "I've nothing really against kane but part of me would find any 'roughing the kicker' penalty on him hilarious.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.4481,
+    "probabilities": {
+      "analysis": 0.4481,
+      "hot_take": 0.3173,
+      "reaction": 0.2347
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wodqsu/england_captain_harry_kane_eyes_combining_mls/pbnau98/"
+  },
+  {
+    "text": "By doing TikTok dances on opponent's midfield logos.",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.3737,
+    "probabilities": {
+      "analysis": 0.3737,
+      "hot_take": 0.3013,
+      "reaction": 0.325
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wohzfb/tennessee_titans_jc_latham_quietly_developing/pbnmcct/"
+  },
+  {
+    "text": "Bro there aren’t even 32 qbs that are good enough to lead a team to the playoffs now you want backups to be able to do that?",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.4451,
+    "probabilities": {
+      "analysis": 0.4451,
+      "hot_take": 0.2958,
+      "reaction": 0.259
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbne1q3/"
+  },
+  {
+    "text": "Imagine if they sign a free agent QB like Jimmy Garoppolo and sneak into the playoffs right in time for Dart to return.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.4673,
+    "probabilities": {
+      "analysis": 0.4673,
+      "hot_take": 0.2895,
+      "reaction": 0.2431
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbnak1u/"
+  },
+  {
+    "text": "And Jeremy Giambi provides strip club recommendations",
+    "true_label": "reaction",
+    "predicted_label": "reaction",
+    "confidence": 0.3699,
+    "probabilities": {
+      "analysis": 0.3295,
+      "hot_take": 0.3006,
+      "reaction": 0.3699
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woic9m/schefter_giants_qb_jaxson_dart_is_out_for_the/pbnfjgx/"
+  },
+  {
+    "text": "20% is still an exaggeration it's probably closer to 5% ... maybe the receiver can bail out my terrible throw since he's so open!",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4879,
+    "probabilities": {
+      "analysis": 0.4879,
+      "hot_take": 0.286,
+      "reaction": 0.2261
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woi1x2/highlight_panthers_formation_on_4th_and_goal/pbnprf9/"
+  },
+  {
+    "text": "Not really. Rough count is around 27 snaps where he was faced one on one pre snap and 6 where he was double covered intentionally. I know you're a ravens fan and you lot aren't known for your counting ability, but how did you get those numbers so wrong?",
+    "true_label": "analysis",
+    "predicted_label": "analysis",
+    "confidence": 0.5888,
+    "probabilities": {
+      "analysis": 0.5888,
+      "hot_take": 0.2308,
+      "reaction": 0.1805
+    },
+    "correct": true,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojqjl/highlight_every_aaron_donald_snap_in_his_first/pbnnufk/"
+  },
+  {
+    "text": "If he didn’t play football, this is the type of shit I expect him to do instead. Bro has MBA written all over him.",
+    "true_label": "reaction",
+    "predicted_label": "analysis",
+    "confidence": 0.3571,
+    "probabilities": {
+      "analysis": 0.3571,
+      "hot_take": 0.329,
+      "reaction": 0.3139
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1wojo0k/highlight_raiders_qb_fernando_mendoza_posts_and/pbnnmyy/"
+  },
+  {
+    "text": "Yah he had some NFL talent on his team too. But also covid scouting and his physical attributes didn’t scream draft worthy",
+    "true_label": "hot_take",
+    "predicted_label": "analysis",
+    "confidence": 0.4515,
+    "probabilities": {
+      "analysis": 0.4515,
+      "hot_take": 0.3078,
+      "reaction": 0.2408
+    },
+    "correct": false,
+    "notes": "",
+    "source_url": "https://www.reddit.com/r/nfl/comments/1woe7wy/highlight_brock_purdy_breaking_down_anticipation/pbndkug/"
+  }
+]

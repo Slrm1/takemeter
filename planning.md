@@ -174,6 +174,18 @@ Priority:
 3. confidence calibration
 4. inter-annotator reliability
 
+### Stretch update before implementation
+
+Written before the stretch work, after the labeled dataset existed and before the fine-tuned test errors were interpreted.
+
+I am doing three stretch features:
+
+1. Error pattern analysis. After the test predictions exist, I will group every fine-tuned mistake by the true/predicted pair and look for a repeating cause, especially analysis versus hot_take on short comments, sarcasm, and one decorative statistic. I will check any pattern against the actual misclassified texts before writing it up.
+2. Confidence calibration. I will bin the fine-tuned model's maximum class probability and compare accuracy in the high-confidence bin with accuracy in the lower-confidence bin on the same locked test set.
+3. A local interface. A small Python app will take a new comment, load the saved DistilBERT classifier, and print the label and confidence. The README will say how to run it.
+
+I am not doing inter-annotator reliability. I do not have a second person who can independently label 30 or more comments, and I will not invent a second annotator or an agreement rate.
+
 ## End-to-End Workflow
 
 1. Finalize and stress-test the label rules.
